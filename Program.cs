@@ -20,7 +20,8 @@ namespace day_2_1
             String diena;
             diena = Console.ReadLine();
             Console.WriteLine("Jūs esat dzimis " + gads + ". gada " + diena + ". " + menesis + "! Visu labu!");
-           
+            Console.WriteLine("bithub tests");
+
 
             Console.ReadLine();
 
